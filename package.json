@@ -1,0 +1,25 @@
+{
+  "name": "demo-movie",
+  "description": "A tool to help automate the process of creating a demo movie for a website",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kennib/demo-movie.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "movie",
+    "editor",
+    "edit",
+    "record",
+    "screen",
+    "capture",
+    "video",
+    "demo"
+  ],
+  "author": "Kenni Bawden",
+  "license": "MIT"
+}
